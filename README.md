@@ -1,5 +1,5 @@
-# SGDK-Project-Compiler
-A small utility  that removes the need to enter a command in CMD each time when compiling an SGDK project
+# SGDK project builder
+A small utility  that removes the need to enter a command in CMD each time when building a SGDK project
 
 ## How to use?
 
