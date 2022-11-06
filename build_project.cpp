@@ -3,7 +3,9 @@
 #include <windows.h>
 #include <cstdlib>
 using namespace std;
-int main(){
+
+int main()
+{
     char* env_var = "GDK";
     char* env_val;
     env_val = getenv(env_var);
@@ -22,4 +24,5 @@ int main(){
     WinExec(command.c_str(), 1);
     system("pause");
     return 0;
+    
 }
